@@ -1,0 +1,11 @@
+Task 3. Comprehension questions (2 points)
+a) Are there conditions under which the results of a PCA and a PCoA are equivalent? If so, what are they? (1 P.)
+b) What options exist to determine a meaningful number of dimensions for a PCoA? (1 P.)
+
+Answers:
+
+a) Yes, when we use the euclidian distance.
+Minimizing linear distances is the same as maximizing linear correlations.
+
+b) Look at the eigenvalues.
+Similar to PCA the eigenvalues give us the ratios of explained variance in the distance matrix.
